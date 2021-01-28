@@ -1,0 +1,11 @@
+{
+  "Assistente": {
+    "versao": "1.0.0",
+    "url": "http://local.com/versaoAo100.apk"
+  } ,
+  
+   "Navegador": {
+    "versao": "1.0.0",
+    "url": "http://local.com/versaoNav100.apk"
+  } 
+}
